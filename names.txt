@@ -1,0 +1,4 @@
+zero
+snake
+blade
+ninja
