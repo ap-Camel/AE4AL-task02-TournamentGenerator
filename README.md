@@ -1,5 +1,5 @@
 # Algorithms and Data Structures
-## task 01
+## task 02
 
 #### Task description
 
